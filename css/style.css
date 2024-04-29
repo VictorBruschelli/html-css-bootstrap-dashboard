@@ -1,3 +1,7 @@
 .nav-item{
     font-size: 13px;
 }
+.container {
+    max-width: 960px;
+  }
+  
